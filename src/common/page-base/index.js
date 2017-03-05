@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import Navigation from 'components/navigation'
-import Auth from 'libs/auth'
 
-const isLoggedIn = Auth.loggedIn()
 // TODO: Replace this with an Ajax or JSON file
 const NAV_MENU = [
     {
@@ -18,7 +16,7 @@ const NAV_MENU = [
         label: 'Account',
         childs: [
             {
-                label: isLoggedIn ? 'Logout' : 'Login',
+                label: 'Logout',
                 to: '/login'
             }
         ]

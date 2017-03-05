@@ -33,6 +33,11 @@ To start the boilerplate in dev mode type this in your console:
 
 `yarn dev`
 
+Use these credentials to pass the login:
+
+email: test@email.com
+pass: password
+
 ## Build App
 
 To build your app run this command in your console:
