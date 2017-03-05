@@ -1,0 +1,4 @@
+instrumentation:
+    root: .
+    excludes: ['*.spec.js','./node_modules/*']
+    extensions: ['.js']

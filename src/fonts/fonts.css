@@ -1,0 +1,89 @@
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('myriad-pro/MYRIADPRO-REGULAR.otf');
+}
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('myriad-pro/MYRIADPRO-SEMIBOLD.otf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('myriad-pro/MYRIADPRO-SEMIBOLDIT.otf');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('myriad-pro/MYRIADPRO-BOLD.otf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('myriad-pro/MYRIADPRO-BOLD.otf');
+    font-weight: 700;
+    font-style: italic; 
+}
+@font-face {
+    font-family: MyriadPro-Condensed;
+    src: url('myriad-pro/MYRIADPRO-COND.otf');
+}
+@font-face {
+    font-family: MyriadPro-Condensed;
+    src: url('myriad-pro/MYRIADPRO-CONDIT.otf');
+    font-style: italic;
+}
+@font-face {
+    font-family: MyriadPro-Condensed;
+    src: url('myriad-pro/MYRIADPRO-BOLDCOND.otf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: MyriadPro-Condensed;
+    src: url('myriad-pro/MYRIADPRO-BOLDCONDIT.otf');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/***** CABIN *******/
+
+@font-face {
+    font-family: Cabin;
+    src: url('cabin/Cabin-Regular.otf');
+}
+@font-face {
+    font-family: Cabin;
+    src: url('cabin/Cabin-SemiBold.otf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: Cabin;
+    src: url('cabin/Cabin-SemiBoldItalic.otf');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: Cabin;
+    src: url('cabin/Cabin-Bold.otf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: Cabin;
+    src: url('cabin/Cabin-BoldItalic.otf');
+    font-weight: 700;
+    font-style: italic; 
+}
+@font-face {
+    font-family: Cabin;
+    src: url('cabin/Cabin-Italic.otf');
+    font-style: italic;
+}
+@font-face {
+    font-family: Cabin-Medium;
+    src: url('cabin/Cabin-Medium.otf');
+}
+@font-face {
+    font-family: Cabin-Medium;
+    src: url('cabin/Cabin-MediumItalic.otf');
+    font-style: italic;
+}

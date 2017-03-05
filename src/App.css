@@ -1,0 +1,16 @@
+body {
+    background-color: #088a8e;
+    font-family: Cabin;
+    font-size: 15px;
+}
+.container .row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.login .logo img {
+    background-color: #fff;
+}
